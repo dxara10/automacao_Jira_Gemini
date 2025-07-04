@@ -1,0 +1,13 @@
+funcionalidade,user_story_id
+auth,US-AUTH-001
+auth,US-AUTH-002
+auth,US-AUTH-003
+auth,US-AUTH-004
+home,US-HOME-001
+movies,US-MOVIE-001
+movies,US-MOVIE-002
+sessions,US-SESSION-001
+reservations,US-RESERVE-001
+reservations,US-RESERVE-002
+reservations,US-RESERVE-003
+navigation,US-NAV-001
